@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="margin:40px;">
 <p><br></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souaoui" alt="SouaOui" /></a> </p>
+
 
 
 
